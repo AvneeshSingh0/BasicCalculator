@@ -13,8 +13,7 @@ Supports addition, subtraction, multiplication, and division with an easy-to-use
 ## Live Demo
 
 You can see the live demo hosted on GitHub Pages here:  
-`https://avneeshsingh0.github.io/basic-calculator-web/` *(Replace with your GitHub username and repo)*
-
+https://avneeshsingh0.github.io/BasicCalculator/
 ## Project Structure
 
 basiccalculator/
